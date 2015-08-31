@@ -1,0 +1,16 @@
+PODS:
+  - Google-Maps-iOS-SDK (1.9.2)
+  - Mapbox-iOS-SDK (2.0.0)
+  - PubNub (3.6.3)
+
+DEPENDENCIES:
+  - Google-Maps-iOS-SDK
+  - Mapbox-iOS-SDK
+  - PubNub (= 3.6.3)
+
+SPEC CHECKSUMS:
+  Google-Maps-iOS-SDK: 7f89cc1edb3ca239a410e5bc83cd1e060db3a289
+  Mapbox-iOS-SDK: 07b84769693242f0e20eeed03d38515beca93c5b
+  PubNub: 0a2a5f8aa7184d32d42a4b4831d1cace01ce528f
+
+COCOAPODS: 0.37.1
